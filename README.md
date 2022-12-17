@@ -6,6 +6,7 @@
 ## Ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width="40" height="40"/>
 
+## Status
 <div>
 <a href="https://github.com/JitteryProgrammer">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JitteryProgrammer&layout=compact&langs_count=7&theme=dracula"/>
