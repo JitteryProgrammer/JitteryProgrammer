@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Discord: Jiterry#3309**
 
-- 📄 Know about my experiences [On my github](On my github)
+- 📄 Know about my experiences **https://leetcode.com/JiterryProgrammer/**
 
 - ⚡ Fun fact **Depression and coffee addict**
 
