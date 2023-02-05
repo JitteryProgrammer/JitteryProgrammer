@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jiterry Programmer</h1>
 <h3 align="center">Empoderando a inovação, com o uso de raciocínio estratégico e tecnologia avançada pode gerar soluções eficazes</h3>
 
-- 🔭 I’m currently working on **Sentiment Analysis Pro**
+- 🔭 I’m currently working on **INJECTION - SHIELD**
 
 - 🌱 I’m currently learning **Machine Learning and artificial intelligence**
 
 - 👯 I’m looking to collaborate on **World**
 
-- 🤝 I’m looking for help with **Sentiment Analysis Pro**
+- 🤝 I’m looking for help with **INJECTION - SHIELD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JitteryProgrammer](https://github.com/JitteryProgrammer)
 
